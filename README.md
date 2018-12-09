@@ -1,2 +1,3 @@
-# Live-Streaming-Face-Recognition
-# Flask-Face-Recognition
+# Flask Face Recognition
+
+OpenCV + Flask
